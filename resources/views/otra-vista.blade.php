@@ -1,0 +1,1 @@
+<h1>Desde la otra vista</h1>
